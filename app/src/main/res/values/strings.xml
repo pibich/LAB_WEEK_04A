@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LAB_WEEK_04</string>
+    <string name="app_title">Coffee App</string>
+    <string name="affogato_title">AFFOGATO</string>
+    <string name="affogato_desc">Espresso poured on a vanilla ice cream. Served in a cappuccino cup.</string>
+    <string name="americano_title">AMERICANO</string>
+    <string name="americano_desc">Espresso with added hot water (100-150 ml). Often served in a
+    cappuccino cup. (The espresso is added into hot water rather than all the water being flowed
+    through the coffee that would lead to over extraction.)</string>
+    <string name="latte_title">CAFFE LATTE</string>
+    <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
+    espresso with steamed milk and only a little milk foam poured over it. Serve in a latte glass
+    or a coffee cup. Flavored syrup can be added.</string>
+    <string name="fizzy_title">Fizzy Black</string>
+    <string name="fizzy_desc">A carbonated coffee beverage, high in sugar but it will make
+    you energetic. Like it\'s magnetic!</string>
+    <string name="beerCoffee_title">Coffee Beer</string>
+    <string name="beerCoffee_desc">Yes, another carbonated coffee drink. This is more carbonated than
+    the last one though.</string>
+    <string name="coffee_list">Coffee List</string>
+    <string name="unknown_coffee">Unknown Coffee</string>
+    <string name="back_button_label">Back</string>
+    <string name="favorite_string_placeholder">Favorite</string>
+    <string name="add_favorite">Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <item name="coffeeDetail" type="id" />
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_coffee">Coffee List</string>
+    <string name="menu_favorites">Favorite Coffee</string>
+    <string name="coffeeStringed">Coffee</string>
+    <string name="cafeStringed">Cafe</string>
+    <string name="starbucks_title">Starbucks</string>
+    <string name="starbucks_desc">Starbucks Corporation is an American chain of coffee</string>
+    <string name="janjijiwa_title">JANJI JIWA</string>
+    <string name="janjijiwa_desc">It is undeniable that Janji Jiwa have to spread to various countries
+        because of the top notch Coffee.</string>
+    <string name="kopikenangan_title">KOPI KENANGAN</string>
+    <string name="kopikenangan_desc">At Kopi Kenangan, their dream is to serve high quality coffee
+        around Indonesia and the World.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
